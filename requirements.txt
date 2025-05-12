@@ -1,0 +1,22 @@
+# Core LangChain and vector DB
+langchain
+langchain-core
+langchain-pinecone
+langchain-huggingface
+langchain-cohere
+langchain-mistralai
+
+# Vector DB and Embeddings
+pinecone-client
+sentence-transformers
+
+# Streamlit UI
+streamlit
+
+# Environment variable management
+python-dotenv
+
+
+
+# For robust JSON handling (optional, but recommended)
+orjson
